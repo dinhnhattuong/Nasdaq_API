@@ -1,2 +1,3 @@
-# Nasdaq_API
- Using API to analyze some data
+# Stock Data Analysis with NASDAQ API
+
+This project fetches stock data for a particular stock from the NASDAQ API and performs various calculations on it. The calculations include finding the highest and lowest opening prices, the largest change in any one day based on high and low prices, the largest change between any two days based on closing price, average daily trading volume, and median trading volume.
